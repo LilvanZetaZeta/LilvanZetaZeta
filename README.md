@@ -30,6 +30,7 @@
 
 ## Mis redes sociales
 <p align ="center">
-  <a align = "center" href ="https://github.com/LilvanZetaZeta"> Github Zetinha Zetinha</a>
-  <a align = "center" href ="https://www.instagram.com/lilv4n.z"> Averiguando</a>
+  <a href ="https://github.com/LilvanZetaZeta"> Github Zetinha Zetinha</a>
+  </br>
+  <a href ="https://www.instagram.com/lilv4n.z"> Averiguando</a>
 </p>
