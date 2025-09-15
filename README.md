@@ -2,7 +2,6 @@
   <img src="https://www.overclockers.co.uk/blog/wp-content/uploads/2023/11/2160px-Counter-Strike_2_-_Background.png" alt="Banner" />
 </p>
 
-
 <h1 align="center">👋 Hola, soy LilvanZetaZeta</h1>
 <p align="center">
   Estudiante de desarrollo de software | Apasionado por aprender y construir soluciones reales 🚀
