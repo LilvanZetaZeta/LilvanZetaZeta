@@ -27,3 +27,7 @@
 
 - 📘 Desarrollo de software profesional  
 - 🏗️ Arquitectura de software y buenas prácticas  
+
+## Mis redes sociales
+
+- <a align = "center" href ="https://github.com/LilvanZetaZeta"> Github Zetinha Zetinha</a>
