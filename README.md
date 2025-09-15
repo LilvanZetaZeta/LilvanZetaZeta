@@ -30,4 +30,5 @@
 
 ## Mis redes sociales
 
-- <a align = "center" href ="https://github.com/LilvanZetaZeta"> Github Zetinha Zetinha</a>
+<a align = "center" href ="https://github.com/LilvanZetaZeta"> Github Zetinha Zetinha</a>
+<a align = "center" href ="https://www.instagram.com/lilv4n.z"> Averiguando</a>
